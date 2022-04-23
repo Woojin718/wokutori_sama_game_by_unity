@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/1_sunset/1_start.unity
+    guid: 9a59ce9e63f4a4d92b0c424bf109098c
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/1_sunset/2_0_title.unity
+    guid: 57eb9f014edca48a6848e2132c740356
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/1_sunset/2_1_kioku_list.unity
+    guid: 69f1afcc153f642de870fd794aff904c
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/1_sunset/4_intro_sunset.unity
+    guid: 6cdbe867498f541448cbd82f7143750e
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/1_sunset/3_log1.unity
+    guid: 627cafb59ddbf421d90b6a40d12d338e
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/1_sunset/5_stage2_sunset.unity
+    guid: 5c37291fa59ad42afa2e238514a94b4a
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/1_sunset/6_stage3_sunset.unity
+    guid: c7e78cfa4c6804652ae638235bd3a2f3
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/1_sunset/7_stage4_sunset.unity
+    guid: 2d44a08d39cab4121ac27e3a647fc548
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/2_night/8_log2.unity
+    guid: ebe32dec60a2b4beaab2530ddfcdaaa8
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/2_night/9_intro_night.unity
+    guid: affa871552c1146449ad6f18a2ee63b4
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/2_night/10_stage2_night.unity
+    guid: 6bf9d1023e1a6460bb28b41e7a362964
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/2_night/11_stage3_night.unity
+    guid: 227d784f6e51d477f92e99ec65f0a0e3
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/2_night/12_stage4_night.unity
+    guid: 6eeb280455eca4a289d5322ba655659b
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/2_night/13_cave.unity
+    guid: 25578a832dc6744fca13e780f02a11ae
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/2_night/14_stage7.unity
+    guid: c92277396c2214f49892b8772f353f8b
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/2_night/15_Ending.unity
+    guid: b445f036d7f624f74ae98e2eef9ae5a0
+  - enabled: 1
+    path: Assets/Scenes/Build Scenes/LogTaiken.unity
+    guid: 39b05a2a091f74a8a85a41bbb8e41931
+  - enabled: 1
+    path: Assets/Scenes/Yasuda/TestEffects.unity
+    guid: ca60b532f90b74c9898fb59685a1f780
+  m_configObjects: {}

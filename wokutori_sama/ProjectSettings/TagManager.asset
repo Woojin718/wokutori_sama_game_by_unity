@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Stage
+  - bucket
+  - Pushable
+  - Drops
+  - water
+  - Undefined
+  - Enemy
+  - Ground
+  - Carriable
+  - Lamp
+  - Character
+  - GameOver
+  - torch
+  - SavePoint
+  - PlayerCollider
+  - EnemyCollider
+  - PlayerCamera
+  - TutorialTrigger
+  - WallSeTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Field
+  - PlayerBody
+  - KaonashiBody
+  - KaonashiTouchPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackFog
+    uniqueID: 1850553899
+    locked: 0
+  - name: Background
+    uniqueID: 2329333027
+    locked: 0
+  - name: Ground
+    uniqueID: 1883217645
+    locked: 0
+  - name: Field
+    uniqueID: 1627949023
+    locked: 0
+  - name: ToriiRight
+    uniqueID: 2140335479
+    locked: 0
+  - name: Player
+    uniqueID: 1620071565
+    locked: 0
+  - name: Kaonashi
+    uniqueID: 4163412793
+    locked: 0
+  - name: Torii
+    uniqueID: 2258253633
+    locked: 0
+  - name: Spider
+    uniqueID: 692629909
+    locked: 0
+  - name: Wokutorisama
+    uniqueID: 839324523
+    locked: 0
+  - name: Foreground
+    uniqueID: 2471128005
+    locked: 0
+  - name: FrontFog
+    uniqueID: 1214298057
+    locked: 0
